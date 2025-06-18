@@ -8,10 +8,11 @@ A simple VS Code extension to run C, C++, Java, Python, and HTML files in an ext
 - Simple and easy to use.
 
 ## Installation
-Search "Basic Language Runner" in VS Code Marketplace and install it. Turn on auto update for getting furture updates automatically.
-![Basic Language Runner](https://github.com/user-attachments/assets/8b53cdc3-c5b3-4b55-b750-38559fae3cb9)
-![](https://github.com/user-attachments/assets/af216936-9aa8-4f14-8bc6-9c1df31946d2)
+Search "Basic Language Runner" in VS Code Marketplace and install it OR Press Ctrl + P and type,
+"ext install aradhypathak.language-runner-basic". Turn on auto update for getting furture updates automatically.
 
+![Basic Language Runner](https://github.com/user-attachments/assets/9103653e-c730-48e6-b503-902ef8e16515)
+![](https://github.com/user-attachments/assets/c276c8b9-f486-4720-bbb4-6dcb87984e90)
 ## Usage
 Just press F5 and your files will be executed.
 
